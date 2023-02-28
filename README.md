@@ -1,5 +1,8 @@
-# calculater-1-
-this is basic calci
+# Calculater
+this is basic calculater
+
+
+using HTML , CSS , JS
 
 
 
